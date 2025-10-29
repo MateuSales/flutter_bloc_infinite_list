@@ -1,2 +1,2 @@
-// widgets.dart
-// ...exporta widgets relacionados a posts...
+export 'bottom_loader.dart';
+export 'post_list_item.dart';
